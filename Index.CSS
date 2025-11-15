@@ -1,0 +1,60 @@
+h1 {
+    text-align: center;
+    background-color: black;
+    color: rgb(244, 173, 160);
+}
+
+p {
+    text-align: center;
+    font-family: serif;
+}
+
+main {
+    background-color: rgb(49, 35, 35);
+}
+
+main p {
+    color:lightcoral;
+    font-family:sans-serif;
+}
+
+html {
+    background-color: rgb(81, 49, 49);
+}
+
+img {
+    weight:300px;
+    height:350px;
+}
+
+header {
+    background-color: rgb (81, 49, 49);
+}
+
+h2 {
+    color:lightcoral;
+}
+
+h3 {
+    color:lightcoral;
+}
+
+h4 {
+    color:lightcoral;
+}
+
+footer {
+    background-color: rgb(119, 9, 31);
+}
+
+footer p{
+    color: rgb(255, 25, 0);
+}
+
+a {
+    font-family: Times new roman;
+}
+
+header p {
+    font-family: Times;
+}
